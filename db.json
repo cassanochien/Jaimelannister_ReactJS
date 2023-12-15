@@ -1,0 +1,118 @@
+{
+  "categoryData": [
+    {
+      "id": 1,
+      "name": "Java"
+    },
+    {
+      "id": 2,
+      "name": "SQL"
+    },
+    {
+      "id": 3,
+      "name": "Javascript"
+    },
+    {
+      "id": 4,
+      "name": "HTML/CSS"
+    }
+  ],
+  "courseData": [
+    {
+      "id": 1,
+      "categoryName": "Java",
+      "courseName": "Spring Cloud",
+      "metaDescription": "Microservices With Spring Cloud & OAuth 2 Security...",
+      "imageUrl": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t1.15752-9/398017089_1071846584142353_646157062160810844_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=UyumwZFigYUAX8_tT_h&_nc_ht=scontent.fsgn2-7.fna&oh=03_AdQs72TCFdVCf_9fzq5FYUEzmT5e9eIfvURghek7v6RJCw&oe=658CC92C",
+      "coursePrice": 1.299,
+      "createdAt": "2023-10-20",
+      "categoryId": 1,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "categoryName": "Java",
+      "courseName": "Java Web Servlet Jsp",
+      "metaDescription": "Giới thiệu về lập trình web servlet bằng ngôn ngữ Java...",
+      "imageUrl": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t1.15752-9/405266042_1307674786550580_6952482798919413117_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=apUd-si89-QAX9OUHn_&_nc_ht=scontent.fsgn2-7.fna&oh=03_AdT9cS5kZ6WJ0tq7PqvGC27MQAUu9QOrWyydQskRyG56cQ&oe=658CE444",
+      "coursePrice": 2.249,
+      "createdAt": "2023-10-20",
+      "categoryId": 1,
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "categoryName": "SQL",
+      "courseName": "Microsoft Access SQL",
+      "metaDescription": "Khóa học MS Access cho các bạn lập trình viên, các ...",
+      "imageUrl": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t1.15752-9/405181055_309814408562175_7229442049839236706_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=aaYZUX4DExMAX_TtsKu&_nc_ht=scontent.fsgn2-3.fna&oh=03_AdRgGTcJHc0aqBDQ9pJmoNX8DLhwiWFKIvtQwZZDhZsSww&oe=6595ECD3",
+      "coursePrice": 1.799,
+      "createdAt": "2023-10-20",
+      "categoryId": 2,
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "categoryName": "Java ",
+      "courseName": "Spring Boot JPA Security",
+      "metaDescription": "Spring Boot ra đời nhằm rút ngắn thời gian cài đặt ...",
+      "imageUrl": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t1.15752-9/405266049_298106799860545_7411871264009758974_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=YcoONQU6QDsAX-lneVD&_nc_ht=scontent.fsgn2-9.fna&oh=03_AdRs-yk5iIQjEwUEuIVH4sCUSuE0qyLDW4fuPMRRJ9Purg&oe=6595FE81",
+      "coursePrice": 3.499,
+      "createdAt": "2023-10-20",
+      "categoryId": 1,
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "categoryName": "JavaScript",
+      "courseName": "ReactJs & Redux",
+      "metaDescription": "ReactJs là một thư viện sử dụng JavaScript được phát ...",
+      "imageUrl": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t1.15752-9/397979235_1045557880045802_5459155070806649793_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=en9DPmuYyKwAX9Hw3tP&_nc_ht=scontent.fsgn2-9.fna&oh=03_AdTohLm8JInv2kPVUQxsrO2MuAS6zGGY2Aj-84fzGaG39A&oe=6595F0A6",
+      "coursePrice": 2.689,
+      "createdAt": "2023-10-20",
+      "categoryId": 3,
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "categoryName": "SQL",
+      "courseName": "SQL cơ bản và nâng cao",
+      "metaDescription": "Khóa học SQL cung cấp các kiến thức nền tảng vững ...",
+      "imageUrl": "https://scontent.fsgn2-10.fna.fbcdn.net/v/t1.15752-9/405408193_247124755046431_9073140230987179486_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=DHpXF_-CAAMAX-AiZlN&_nc_ht=scontent.fsgn2-10.fna&oh=03_AdSCq0M7C5Pr4pmVSXwTirq1NvE-keqiRltNaeu71DKYbg&oe=658CE034",
+      "coursePrice": 1.999,
+      "createdAt": "2022-10-20",
+      "categoryId": 2,
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "categoryName": "HTML/CSS",
+      "courseName": "HTML cơ bản",
+      "metaDescription": "Khóa học HTML để thiết kế giao diện Web dành cho ... ",
+      "imageUrl": "https://scontent.fsgn2-8.fna.fbcdn.net/v/t1.15752-9/398267983_1062420891706652_877201081303243863_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=toHH3zULbfwAX_9D3Et&_nc_ht=scontent.fsgn2-8.fna&oh=03_AdRnr8MkxXKPxEQacCDIFoth3iyyl5ylKswivu0jhKCsXw&oe=6595FDC9",
+      "coursePrice": 0.899,
+      "createdAt": "2022-10-20",
+      "categoryId": 4,
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "categoryName": "HTML/CSS",
+      "courseName": "CSS cơ bản",
+      "metaDescription": "Hướng dẫn sử dụng CSS cơ bản trong lập trình giao ... ",
+      "imageUrl": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/405303047_314510301490524_5569432703378249737_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=Bj41sVrTAj0AX8m7OwV&_nc_ht=scontent.fsgn2-4.fna&oh=03_AdQhTmZNFZRtfacD60eU8EuBDIN_VKlnvBCykswU5ctphg&oe=6595F0E4",
+      "coursePrice": 0.899,
+      "createdAt": "2022-10-20",
+      "categoryId": 4,
+      "quantity": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "Entidi11",
+      "email": "entidi123@gmail.com",
+      "password": "123123",
+      "id": 1
+    }
+  ]
+}
